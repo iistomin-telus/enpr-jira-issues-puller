@@ -1,0 +1,3027 @@
+{
+  "id": "1857202",
+  "key": "NGCS-3609",
+  "fields": {
+    "customfield_19200": null,
+    "customfield_19201": null,
+    "customfield_19202": null,
+    "customfield_19203": null,
+    "customfield_19204": null,
+    "resolution": {
+      "id": "10000",
+      "description": "GreenHopper Managed Resolution",
+      "name": "Done"
+    },
+    "customfield_17010": null,
+    "customfield_18100": null,
+    "lastViewed": null,
+    "customfield_11700": null,
+    "customfield_11702": null,
+    "aggregatetimeoriginalestimate": null,
+    "issuelinks": [
+      {
+        "id": "1486211",
+        "type": {
+          "id": "10700",
+          "name": "Mention",
+          "inward": "is mentioned by",
+          "outward": "mentions"
+        },
+        "outwardIssue": {
+          "id": "1876621",
+          "key": "NGCS-3819",
+          "fields": {
+            "summary": "PROD ARPIS  failed on the checkout page after clicking submit ",
+            "status": {
+              "description": "The issue is considered finished, the resolution is correct. Issues which are closed can be reopened.",
+              "name": "Closed",
+              "id": "6",
+              "statusCategory": {
+                "id": 3,
+                "key": "done",
+                "colorName": "green",
+                "name": "Done"
+              }
+            },
+            "priority": {
+              "name": "Medium",
+              "id": "6"
+            },
+            "issuetype": {
+              "id": "1",
+              "description": "A problem which impairs or prevents the functions of the product.",
+              "name": "Bug",
+              "subtask": false,
+              "avatarId": 13503
+            }
+          }
+        }
+      },
+      {
+        "id": "1464519",
+        "type": {
+          "id": "10700",
+          "name": "Mention",
+          "inward": "is mentioned by",
+          "outward": "mentions"
+        },
+        "outwardIssue": {
+          "id": "1858242",
+          "key": "NGCS-3618",
+          "fields": {
+            "summary": "R4 | PT140 | TELUS & Koodo | DLR&RTL | NEW & Existing | Transaction failed on Order Summary page",
+            "status": {
+              "description": "This status is managed internally by JIRA Software",
+              "name": "Cancelled",
+              "id": "10377",
+              "statusCategory": {
+                "id": 3,
+                "key": "done",
+                "colorName": "green",
+                "name": "Done"
+              }
+            },
+            "priority": {
+              "name": "Low",
+              "id": "9"
+            },
+            "issuetype": {
+              "id": "1",
+              "description": "A problem which impairs or prevents the functions of the product.",
+              "name": "Bug",
+              "subtask": false,
+              "avatarId": 13503
+            }
+          }
+        }
+      },
+      {
+        "id": "1579497",
+        "type": {
+          "id": "10700",
+          "name": "Mention",
+          "inward": "is mentioned by",
+          "outward": "mentions"
+        },
+        "inwardIssue": {
+          "id": "1955867",
+          "key": "NGCQE-3076",
+          "fields": {
+            "summary": "NGCS-3609",
+            "status": {
+              "description": "The issue is considered finished, the resolution is correct. Issues which are closed can be reopened.",
+              "name": "Closed",
+              "id": "6",
+              "statusCategory": {
+                "id": 3,
+                "key": "done",
+                "colorName": "green",
+                "name": "Done"
+              }
+            },
+            "priority": {
+              "name": "High",
+              "id": "8"
+            },
+            "issuetype": {
+              "id": "5",
+              "description": "The sub-task of the issue",
+              "name": "Sub-task",
+              "subtask": true,
+              "avatarId": 13516
+            }
+          }
+        }
+      },
+      {
+        "id": "1490706",
+        "type": {
+          "id": "10700",
+          "name": "Mention",
+          "inward": "is mentioned by",
+          "outward": "mentions"
+        },
+        "inwardIssue": {
+          "id": "1880694",
+          "key": "NGCS-3850",
+          "fields": {
+            "summary": "BAN 36595855 - CENTRE MULTI-CONSEILS - BAN active add on",
+            "status": {
+              "description": "The issue is considered finished, the resolution is correct. Issues which are closed can be reopened.",
+              "name": "Closed",
+              "id": "6",
+              "statusCategory": {
+                "id": 3,
+                "key": "done",
+                "colorName": "green",
+                "name": "Done"
+              }
+            },
+            "priority": {
+              "name": "High",
+              "id": "8"
+            },
+            "issuetype": {
+              "id": "1",
+              "description": "A problem which impairs or prevents the functions of the product.",
+              "name": "Bug",
+              "subtask": false,
+              "avatarId": 13503
+            }
+          }
+        }
+      },
+      {
+        "id": "1493551",
+        "type": {
+          "id": "10700",
+          "name": "Mention",
+          "inward": "is mentioned by",
+          "outward": "mentions"
+        },
+        "inwardIssue": {
+          "id": "1882034",
+          "key": "NGCS-3871",
+          "fields": {
+            "summary": "Business Connect Duplicate RSO issue",
+            "status": {
+              "description": "The issue is considered finished, the resolution is correct. Issues which are closed can be reopened.",
+              "name": "Closed",
+              "id": "6",
+              "statusCategory": {
+                "id": 3,
+                "key": "done",
+                "colorName": "green",
+                "name": "Done"
+              }
+            },
+            "priority": {
+              "name": "High",
+              "id": "8"
+            },
+            "issuetype": {
+              "id": "1",
+              "description": "A problem which impairs or prevents the functions of the product.",
+              "name": "Bug",
+              "subtask": false,
+              "avatarId": 13503
+            }
+          }
+        }
+      },
+      {
+        "id": "1750123",
+        "type": {
+          "id": "10700",
+          "name": "Mention",
+          "inward": "is mentioned by",
+          "outward": "mentions"
+        },
+        "inwardIssue": {
+          "id": "2099068",
+          "key": "NGCS-6447",
+          "fields": {
+            "summary": "R1 | PT148 | Business Connect | SBS Agent | SRPDS status is 12 post successful shipment",
+            "status": {
+              "description": "The issue is considered finished, the resolution is correct. Issues which are closed can be reopened.",
+              "name": "Closed",
+              "id": "6",
+              "statusCategory": {
+                "id": 3,
+                "key": "done",
+                "colorName": "green",
+                "name": "Done"
+              }
+            },
+            "priority": {
+              "name": "High",
+              "id": "8"
+            },
+            "issuetype": {
+              "id": "1",
+              "description": "A problem which impairs or prevents the functions of the product.",
+              "name": "Bug",
+              "subtask": false,
+              "avatarId": 13503
+            }
+          }
+        }
+      },
+      {
+        "id": "1574848",
+        "type": {
+          "id": "10700",
+          "name": "Mention",
+          "inward": "is mentioned by",
+          "outward": "mentions"
+        },
+        "inwardIssue": {
+          "id": "1952112",
+          "key": "NGCQE-2889",
+          "fields": {
+            "summary": "TC04_WLS_SBS Agent_Add-on activation_PIN_New address_BCP_1S+2O_Starter with backup_with VOIP devices for all offices_without changing the shipping ",
+            "status": {
+              "description": "Completed work approved by Product Owner.",
+              "name": "Done",
+              "id": "10002",
+              "statusCategory": {
+                "id": 3,
+                "key": "done",
+                "colorName": "green",
+                "name": "Done"
+              }
+            },
+            "priority": {
+              "name": "High",
+              "id": "8"
+            },
+            "issuetype": {
+              "id": "10108",
+              "description": "This Issue Type is used to create Zephyr Test within Jira.",
+              "name": "Test",
+              "subtask": false
+            }
+          }
+        }
+      },
+      {
+        "id": "1744678",
+        "type": {
+          "id": "10700",
+          "name": "Mention",
+          "inward": "is mentioned by",
+          "outward": "mentions"
+        },
+        "inwardIssue": {
+          "id": "2094350",
+          "key": "NGCQE-4640",
+          "fields": {
+            "summary": "TC03 | TELUS | Business connect | Activation | SBS -Agent | BCP | Save and Resume | New address_BCP_1S+1O_Starter with backup_with VOIP devices for all offices_with changing the shipping address",
+            "status": {
+              "description": "Completed work approved by Product Owner.",
+              "name": "Done",
+              "id": "10002",
+              "statusCategory": {
+                "id": 3,
+                "key": "done",
+                "colorName": "green",
+                "name": "Done"
+              }
+            },
+            "priority": {
+              "name": "High",
+              "id": "8"
+            },
+            "issuetype": {
+              "id": "10108",
+              "description": "This Issue Type is used to create Zephyr Test within Jira.",
+              "name": "Test",
+              "subtask": false
+            }
+          }
+        }
+      },
+      {
+        "id": "1462727",
+        "type": {
+          "id": "10700",
+          "name": "Mention",
+          "inward": "is mentioned by",
+          "outward": "mentions"
+        },
+        "inwardIssue": {
+          "id": "1855522",
+          "key": "NGCS-3561",
+          "fields": {
+            "summary": "R4 | PT140 | Business Connect | AOD | Activation | Discrepancy in office seats during resume ",
+            "status": {
+              "description": "This status is managed internally by JIRA Software",
+              "name": "Cancelled",
+              "id": "10377",
+              "statusCategory": {
+                "id": 3,
+                "key": "done",
+                "colorName": "green",
+                "name": "Done"
+              }
+            },
+            "priority": {
+              "name": "Low",
+              "id": "9"
+            },
+            "issuetype": {
+              "id": "1",
+              "description": "A problem which impairs or prevents the functions of the product.",
+              "name": "Bug",
+              "subtask": false,
+              "avatarId": 13503
+            }
+          }
+        }
+      },
+      {
+        "id": "1502463",
+        "type": {
+          "id": "10700",
+          "name": "Mention",
+          "inward": "is mentioned by",
+          "outward": "mentions"
+        },
+        "inwardIssue": {
+          "id": "1890188",
+          "key": "NGCS-3982",
+          "fields": {
+            "summary": "R5 | PT148 | WLS | TELUS | ROPUIS | Getting error in response of ReserveSalesOrder",
+            "status": {
+              "description": "This status is managed internally by JIRA Software",
+              "name": "Cancelled",
+              "id": "10377",
+              "statusCategory": {
+                "id": 3,
+                "key": "done",
+                "colorName": "green",
+                "name": "Done"
+              }
+            },
+            "priority": {
+              "name": "Low",
+              "id": "9"
+            },
+            "issuetype": {
+              "id": "1",
+              "description": "A problem which impairs or prevents the functions of the product.",
+              "name": "Bug",
+              "subtask": false,
+              "avatarId": 13503
+            }
+          }
+        }
+      }
+    ],
+    "customfield_17003": null,
+    "customfield_17002": null,
+    "customfield_17001": null,
+    "customfield_17000": null,
+    "customfield_17007": null,
+    "customfield_17006": null,
+    "customfield_17005": null,
+    "customfield_17004": null,
+    "customfield_17009": null,
+    "customfield_17008": null,
+    "customfield_10600": "3_*:*_1_*:*_672249000_*|*_10628_*:*_1_*:*_67000_*|*_10350_*:*_1_*:*_13128908000_*|*_6_*:*_1_*:*_0_*|*_10250_*:*_1_*:*_445892000_*|*_13445_*:*_1_*:*_89841000_*|*_10732_*:*_1_*:*_600375000",
+    "customfield_10601": null,
+    "subtasks": [],
+    "customfield_11920": null,
+    "issuetype": {
+      "id": "1",
+      "description": "A problem which impairs or prevents the functions of the product.",
+      "name": "Bug",
+      "subtask": false,
+      "avatarId": 13503
+    },
+    "customfield_19400": null,
+    "customfield_19401": null,
+    "customfield_11913": null,
+    "customfield_11915": null,
+    "customfield_11914": null,
+    "customfield_11917": null,
+    "customfield_18300": "",
+    "customfield_17210": null,
+    "customfield_10810": null,
+    "customfield_11900": null,
+    "customfield_11908": null,
+    "customfield_11907": null,
+    "customfield_11909": null,
+    "customfield_17201": null,
+    "customfield_17200": null,
+    "customfield_17204": null,
+    "customfield_17203": null,
+    "customfield_17202": null,
+    "customfield_17209": null,
+    "customfield_17208": null,
+    "timetracking": {},
+    "customfield_17206": null,
+    "customfield_10808": null,
+    "customfield_16101": null,
+    "customfield_16100": null,
+    "customfield_16105": null,
+    "customfield_16104": null,
+    "customfield_16103": null,
+    "customfield_16102": null,
+    "customfield_16109": null,
+    "customfield_16108": null,
+    "customfield_16107": null,
+    "customfield_16106": null,
+    "environment": null,
+    "customfield_12893": null,
+    "customfield_13740": null,
+    "customfield_12653": null,
+    "customfield_13500": null,
+    "customfield_13742": null,
+    "customfield_13502": null,
+    "customfield_13501": null,
+    "customfield_13743": null,
+    "customfield_12403": null,
+    "customfield_13739": null,
+    "customfield_12880": null,
+    "customfield_12882": null,
+    "customfield_12881": null,
+    "customfield_13731": null,
+    "customfield_13730": null,
+    "customfield_12402": null,
+    "customfield_13732": null,
+    "customfield_12877": null,
+    "customfield_13724": null,
+    "customfield_12876": null,
+    "customfield_13723": null,
+    "customfield_15904": null,
+    "customfield_13726": null,
+    "customfield_15901": null,
+    "customfield_12878": null,
+    "customfield_13725": null,
+    "customfield_15907": null,
+    "timeestimate": null,
+    "customfield_13727": null,
+    "customfield_15908": null,
+    "customfield_15905": null,
+    "customfield_15906": null,
+    "customfield_15909": null,
+    "customfield_12873": null,
+    "customfield_12872": null,
+    "customfield_15900": null,
+    "customfield_11301": null,
+    "customfield_12875": null,
+    "customfield_13722": null,
+    "customfield_12874": null,
+    "customfield_13721": null,
+    "customfield_12866": null,
+    "customfield_13713": null,
+    "customfield_10204": null,
+    "customfield_12865": null,
+    "customfield_13712": null,
+    "customfield_12868": null,
+    "customfield_13715": null,
+    "customfield_14801": null,
+    "customfield_10206": null,
+    "customfield_12867": null,
+    "customfield_13714": null,
+    "customfield_10207": null,
+    "customfield_13717": null,
+    "customfield_12869": null,
+    "customfield_13716": null,
+    "customfield_13719": null,
+    "customfield_13718": null,
+    "customfield_12860": null,
+    "customfield_12862": null,
+    "customfield_10200": "Kim Deans: Closing since this works in production.",
+    "customfield_12861": null,
+    "customfield_14800": null,
+    "customfield_12622": null,
+    "customfield_12864": null,
+    "customfield_13711": null,
+    "customfield_12863": null,
+    "customfield_13710": null,
+    "customfield_12855": null,
+    "customfield_13702": null,
+    "customfield_12854": null,
+    "customfield_13701": null,
+    "customfield_12857": null,
+    "customfield_13704": null,
+    "customfield_12856": null,
+    "customfield_13703": null,
+    "customfield_12859": null,
+    "customfield_13706": null,
+    "customfield_12858": null,
+    "customfield_13705": null,
+    "customfield_13708": null,
+    "customfield_13707": null,
+    "customfield_13709": null,
+    "customfield_19000": null,
+    "customfield_12851": null,
+    "aggregatetimespent": null,
+    "customfield_12850": null,
+    "customfield_12853": null,
+    "customfield_13700": null,
+    "customfield_12852": null,
+    "customfield_12602": null,
+    "customfield_12844": null,
+    "customfield_12843": null,
+    "customfield_12603": null,
+    "customfield_12845": null,
+    "customfield_12606": null,
+    "customfield_12848": null,
+    "customfield_12605": null,
+    "customfield_12847": null,
+    "customfield_12608": null,
+    "customfield_12609": null,
+    "workratio": -1,
+    "customfield_12840": null,
+    "customfield_12600": null,
+    "customfield_12841": null,
+    "customfield_11502": {
+      "value": "Code",
+      "id": "27603"
+    },
+    "customfield_12833": null,
+    "customfield_12832": null,
+    "customfield_12835": null,
+    "customfield_12834": null,
+    "customfield_12837": null,
+    "customfield_12836": null,
+    "customfield_12839": null,
+    "customfield_12838": null,
+    "customfield_11500": null,
+    "customfield_12831": null,
+    "customfield_12830": null,
+    "customfield_10401": null,
+    "customfield_12821": null,
+    "customfield_12825": null,
+    "customfield_12828": null,
+    "customfield_12827": null,
+    "customfield_12829": null,
+    "customfield_13900": null,
+    "customfield_13901": null,
+    "customfield_12372": null,
+    "customfield_12371": null,
+    "customfield_13221": null,
+    "customfield_17821": null,
+    "customfield_12373": null,
+    "customfield_13220": null,
+    "customfield_15401": null,
+    "customfield_17820": null,
+    "customfield_13223": null,
+    "customfield_13222": null,
+    "customfield_14310": null,
+    "customfield_13225": null,
+    "customfield_15404": null,
+    "customfield_17825": null,
+    "customfield_13224": null,
+    "customfield_15405": null,
+    "customfield_17824": null,
+    "customfield_13227": null,
+    "customfield_15402": null,
+    "customfield_17823": null,
+    "customfield_13226": null,
+    "customfield_15403": null,
+    "customfield_17822": null,
+    "customfield_13218": null,
+    "customfield_14308": null,
+    "customfield_13217": null,
+    "customfield_14309": null,
+    "customfield_17817": null,
+    "customfield_14306": null,
+    "customfield_17816": null,
+    "customfield_13219": null,
+    "customfield_14307": null,
+    "customfield_17815": null,
+    "customfield_17819": null,
+    "customfield_13210": null,
+    "customfield_14300": null,
+    "customfield_17810": null,
+    "customfield_18900": null,
+    "customfield_14301": null,
+    "customfield_13212": null,
+    "customfield_13211": null,
+    "customfield_12367": null,
+    "customfield_13214": null,
+    "customfield_14304": null,
+    "customfield_17814": null,
+    "customfield_12366": null,
+    "customfield_13213": null,
+    "customfield_14305": null,
+    "customfield_17813": null,
+    "customfield_13216": null,
+    "customfield_14302": null,
+    "customfield_17812": null,
+    "labels": [],
+    "customfield_13215": null,
+    "customfield_14303": null,
+    "customfield_17811": null,
+    "customfield_13207": null,
+    "customfield_17807": null,
+    "customfield_12359": null,
+    "customfield_13206": null,
+    "customfield_17806": null,
+    "customfield_17805": null,
+    "customfield_13208": null,
+    "customfield_17804": null,
+    "customfield_17809": null,
+    "customfield_17808": null,
+    "customfield_13201": null,
+    "customfield_13200": null,
+    "customfield_13203": null,
+    "customfield_17803": null,
+    "customfield_13202": null,
+    "customfield_17802": null,
+    "customfield_13205": null,
+    "customfield_17801": null,
+    "customfield_12599": null,
+    "customfield_13204": null,
+    "customfield_17800": null,
+    "customfield_12583": null,
+    "reporter": {
+      "name": "x208225",
+      "key": "x208225",
+      "emailAddress": "mahalakshmi.ravindran@telus.com",
+      "displayName": "Mahalakshmi Ravindran",
+      "active": true,
+      "timeZone": "UTC"
+    },
+    "customfield_12101": null,
+    "customfield_12100": null,
+    "customfield_12584": null,
+    "customfield_12102": null,
+    "customfield_12589": null,
+    "customfield_12579": null,
+    "customfield_12571": null,
+    "customfield_12574": null,
+    "customfield_15602": null,
+    "customfield_15603": null,
+    "customfield_12578": null,
+    "customfield_15600": null,
+    "customfield_12577": null,
+    "customfield_15601": null,
+    "customfield_12569": null,
+    "watches": {
+      "watchCount": 17,
+      "isWatching": false
+    },
+    "customfield_12561": null,
+    "customfield_12560": null,
+    "customfield_12565": null,
+    "customfield_12564": null,
+    "customfield_14500": null,
+    "customfield_14501": null,
+    "updated": "2022-01-05T12:35:01.000+0000",
+    "timeoriginalestimate": null,
+    "customfield_12550": null,
+    "description": "Hi CM team,\r\n\r\n\u00a0\r\n\r\nWe are getting error \"Due to technical error, cannot reserve subscriber at this time. Please contact Channel Care to assist or report issue via Status Alert Tool.\" On clicking submit on confirmation page for Business connect orders.\r\n\r\n\u00a0\r\n\r\nNote: We are able to proceed on clicking submit multiple times. Due to which during resume transaction, we are getting same office seat the number of times we click on submit button.\r\n\r\n\u00a0\r\n\r\nCan you please look into this issue?\r\n\r\n\u00a0\r\n\r\nBuild and Session Details\r\n\r\nApplication Name : wireless-sales-web\r\n\r\nApplication Version : 1_0\r\n\r\nTime : Fri May 28 12:44:26 EDT 2021\r\n\r\nBuild Date : 20210526-205508\r\n\r\nBuild Label : MSS.2021.R4.9\r\n\r\nServer / Node : ln98552/CorporateSalesManagementSrv2\r\n\r\nHTTP Session ID : 2218117668\r\n\r\nSSM Session ID : 017930529707261956\r\n\r\nSSM Version : 11\r\n\r\nBrand Code : TELUS\r\n\r\nChannel Transaction ID : BC80566281\r\n\r\nShopping Cart Id :\r\n\r\nShopping Cart Context Id :\r\n\r\nSales Representative : Test DL DP Admin Test DL DP Admin (296D)\r\n\r\nChannel : DLR\r\n\r\nOutlet : 10445180\r\n\r\nOrder Type / Subtype : ACTIVATION/NEW\r\n\r\nAccount Type / Subtype : B/F\r\n\r\nBAN : 70952794\r\n\r\nSubscriber :\r\n\r\nIMEI :\r\n\r\nSIM :\r\n\r\nOffer : [14190238004176] 0 - BC Office offer\r\n\r\n\u00a0\r\n\r\nBuild and Session Details\r\n\r\nApplication Name : wireless-sales-web\r\n\r\nApplication Version : 1_0\r\n\r\nTime : Thu May 27 07:32:06 EDT 2021\r\n\r\nBuild Date : 20210512-183215\r\n\r\nBuild Label : MSS.2021.R4.4\r\n\r\nServer / Node : ln98552/CorporateSalesManagementSrv2\r\n\r\nHTTP Session ID : 2113617631\r\n\r\nSSM Session ID : 017923655449772146\r\n\r\nSSM Version : 5\r\n\r\nBrand Code : TELUS\r\n\r\nChannel Transaction ID : BC80564177\r\n\r\nShopping Cart Id :\r\n\r\nShopping Cart Context Id :\r\n\r\nSales Representative : Test DL DP Admin Test DL DP Admin (296D)\r\n\r\nChannel : DLR\r\n\r\nOutlet : 10445180\r\n\r\nOrder Type / Subtype : ACTIVATION/NEW\r\n\r\nAccount Type / Subtype : B/F\r\n\r\nBAN : 70952516\r\n\r\nSubscriber :\r\n\r\nIMEI :\r\n\r\nSIM :\r\n\r\nOffer : [14190238004176] 0 - BC Office offer\r\n\r\n\u00a0\r\n\r\n\u00a0\r\n\r\n*Thanks & Regards,*\r\n\r\n*Mahalakshmi*\r\n\r\n\u00a0\r\n\r\n\u00a0",
+    "customfield_11220": null,
+    "customfield_12551": null,
+    "customfield_13401": null,
+    "customfield_12553": null,
+    "customfield_13400": null,
+    "customfield_12314": null,
+    "customfield_12546": null,
+    "customfield_12306": null,
+    "customfield_12540": null,
+    "customfield_16900": null,
+    "customfield_12302": null,
+    "customfield_12536": null,
+    "customfield_12535": null,
+    "customfield_11208": null,
+    "customfield_12539": null,
+    "customfield_15000": null,
+    "customfield_16332": null,
+    "customfield_16331": null,
+    "customfield_16330": null,
+    "customfield_16335": null,
+    "customfield_16334": null,
+    "fixVersions": [
+      {
+        "id": "32597",
+        "description": "Next Gen Commerce Release 2021-R4.5",
+        "name": "R4.5- 2021",
+        "archived": false,
+        "released": false,
+        "releaseDate": "2021-07-01"
+      }
+    ],
+    "customfield_16333": null,
+    "customfield_19600": null,
+    "customfield_13290": null,
+    "customfield_13294": null,
+    "customfield_16321": null,
+    "customfield_13293": null,
+    "customfield_16320": null,
+    "customfield_16325": null,
+    "customfield_16324": null,
+    "customfield_16323": null,
+    "customfield_16322": null,
+    "priority": {
+      "name": "Medium",
+      "id": "6"
+    },
+    "customfield_16329": null,
+    "customfield_18500": null,
+    "customfield_16328": null,
+    "customfield_18501": null,
+    "customfield_16327": null,
+    "customfield_16326": null,
+    "customfield_16319": null,
+    "customfield_16310": null,
+    "customfield_16314": null,
+    "customfield_17403": null,
+    "customfield_13286": null,
+    "customfield_16313": null,
+    "customfield_17402": null,
+    "customfield_16312": null,
+    "customfield_17401": null,
+    "customfield_16311": null,
+    "customfield_17400": null,
+    "customfield_16318": null,
+    "customfield_16317": null,
+    "customfield_16316": null,
+    "customfield_16315": null,
+    "customfield_17404": null,
+    "customfield_16309": null,
+    "customfield_16302": null,
+    "customfield_16301": null,
+    "customfield_16300": null,
+    "customfield_16306": null,
+    "customfield_16305": null,
+    "customfield_16304": null,
+    "customfield_14113": null,
+    "customfield_14114": null,
+    "customfield_14111": null,
+    "customfield_15200": {
+      "value": "QE Team",
+      "id": "30118"
+    },
+    "customfield_13266": null,
+    "customfield_14112": null,
+    "customfield_14115": null,
+    "customfield_14116": null,
+    "created": "2021-05-28T17:33:49.000+0000",
+    "customfield_14102": null,
+    "customfield_18702": null,
+    "customfield_14103": null,
+    "customfield_14104": null,
+    "customfield_18700": null,
+    "customfield_13259": null,
+    "customfield_18701": null,
+    "customfield_17609": null,
+    "customfield_17608": null,
+    "customfield_17607": null,
+    "customfield_13241": null,
+    "customfield_13240": null,
+    "customfield_13243": null,
+    "customfield_17601": null,
+    "customfield_13000": null,
+    "customfield_13242": null,
+    "customfield_17600": null,
+    "customfield_13245": null,
+    "customfield_13244": null,
+    "customfield_17605": null,
+    "customfield_13246": null,
+    "customfield_17604": null,
+    "customfield_13249": null,
+    "customfield_17603": null,
+    "customfield_13248": null,
+    "customfield_17602": null,
+    "customfield_13239": null,
+    "attachment": [
+      {
+        "id": "1012769",
+        "filename": "017951613900161124-No RSO Context message-working transaction in PT140.txt",
+        "author": {
+          "name": "x203722",
+          "key": "x203722",
+          "emailAddress": "kaushik.sarangi@telus.com",
+          "displayName": "Kaushik Sarangi",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-06-08T18:04:45.000+0000",
+        "size": 9460763,
+        "mimeType": "text/plain",
+        "content": "https://jira.tsl.telus.com/secure/attachment/1012769/017951613900161124-No+RSO+Context+message-working+transaction+in+PT140.txt"
+      },
+      {
+        "id": "1008251",
+        "filename": "BC_Confirmation page_Issue.PNG",
+        "author": {
+          "name": "x208225",
+          "key": "x208225",
+          "emailAddress": "mahalakshmi.ravindran@telus.com",
+          "displayName": "Mahalakshmi Ravindran",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-06-02T11:42:42.000+0000",
+        "size": 227944,
+        "mimeType": "image/png",
+        "content": "https://jira.tsl.telus.com/secure/attachment/1008251/BC_Confirmation+page_Issue.PNG",
+        "thumbnail": "https://jira.tsl.telus.com/secure/thumbnail/1008251/_thumb_1008251.png"
+      },
+      {
+        "id": "1005560",
+        "filename": "BC_Retest.docx",
+        "author": {
+          "name": "x208225",
+          "key": "x208225",
+          "emailAddress": "mahalakshmi.ravindran@telus.com",
+          "displayName": "Mahalakshmi Ravindran",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-05-28T17:32:35.000+0000",
+        "size": 30381995,
+        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "content": "https://jira.tsl.telus.com/secure/attachment/1005560/BC_Retest.docx"
+      },
+      {
+        "id": "1012761",
+        "filename": "BC80569210-RSO-No Context Message.txt",
+        "author": {
+          "name": "x203722",
+          "key": "x203722",
+          "emailAddress": "kaushik.sarangi@telus.com",
+          "displayName": "Kaushik Sarangi",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-06-08T18:02:31.000+0000",
+        "size": 14933,
+        "mimeType": "text/plain",
+        "content": "https://jira.tsl.telus.com/secure/attachment/1012761/BC80569210-RSO-No+Context+Message.txt"
+      },
+      {
+        "id": "1012762",
+        "filename": "BC80571230-RSO Error Message.txt",
+        "author": {
+          "name": "x203722",
+          "key": "x203722",
+          "emailAddress": "kaushik.sarangi@telus.com",
+          "displayName": "Kaushik Sarangi",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-06-08T18:02:36.000+0000",
+        "size": 6399,
+        "mimeType": "text/plain",
+        "content": "https://jira.tsl.telus.com/secure/attachment/1012762/BC80571230-RSO+Error+Message.txt"
+      },
+      {
+        "id": "1009093",
+        "filename": "image-2021-06-02-17-25-39-685.png",
+        "author": {
+          "name": "x187536",
+          "key": "x187536",
+          "emailAddress": "jose.mena@telus.com",
+          "displayName": "Jose Mena",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-06-02T21:25:41.000+0000",
+        "size": 60074,
+        "mimeType": "image/png",
+        "content": "https://jira.tsl.telus.com/secure/attachment/1009093/image-2021-06-02-17-25-39-685.png",
+        "thumbnail": "https://jira.tsl.telus.com/secure/thumbnail/1009093/_thumb_1009093.png"
+      },
+      {
+        "id": "1008835",
+        "filename": "NGCS-3609_RSO_017957641044754498_successful.txt",
+        "author": {
+          "name": "x150045",
+          "key": "x150045",
+          "emailAddress": "elaine.gou@telus.com",
+          "displayName": "Elaine Gou",
+          "active": true,
+          "timeZone": "America/Toronto"
+        },
+        "created": "2021-06-02T18:42:20.000+0000",
+        "size": 13710,
+        "mimeType": "text/plain",
+        "content": "https://jira.tsl.telus.com/secure/attachment/1008835/NGCS-3609_RSO_017957641044754498_successful.txt"
+      },
+      {
+        "id": "1008412",
+        "filename": "NGCS-3609_RSO_017957641044754498.txt",
+        "author": {
+          "name": "x150045",
+          "key": "x150045",
+          "emailAddress": "elaine.gou@telus.com",
+          "displayName": "Elaine Gou",
+          "active": true,
+          "timeZone": "America/Toronto"
+        },
+        "created": "2021-06-02T14:05:45.000+0000",
+        "size": 14797,
+        "mimeType": "text/plain",
+        "content": "https://jira.tsl.telus.com/secure/attachment/1008412/NGCS-3609_RSO_017957641044754498.txt"
+      },
+      {
+        "id": "1005640",
+        "filename": "NGCS-3609_RSO_multi_submit.txt",
+        "author": {
+          "name": "x150045",
+          "key": "x150045",
+          "emailAddress": "elaine.gou@telus.com",
+          "displayName": "Elaine Gou",
+          "active": true,
+          "timeZone": "America/Toronto"
+        },
+        "created": "2021-05-28T18:24:09.000+0000",
+        "size": 35579,
+        "mimeType": "text/plain",
+        "content": "https://jira.tsl.telus.com/secure/attachment/1005640/NGCS-3609_RSO_multi_submit.txt"
+      },
+      {
+        "id": "1005559",
+        "filename": "TC08_BC.docx",
+        "author": {
+          "name": "x208225",
+          "key": "x208225",
+          "emailAddress": "mahalakshmi.ravindran@telus.com",
+          "displayName": "Mahalakshmi Ravindran",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-05-28T17:33:33.000+0000",
+        "size": 30658057,
+        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "content": "https://jira.tsl.telus.com/secure/attachment/1005559/TC08_BC.docx"
+      }
+    ],
+    "customfield_13230": null,
+    "customfield_13232": null,
+    "customfield_16501": null,
+    "customfield_17832": null,
+    "customfield_13231": null,
+    "customfield_17831": null,
+    "customfield_13234": null,
+    "customfield_17830": null,
+    "customfield_13233": null,
+    "customfield_13236": null,
+    "customfield_16505": null,
+    "customfield_17836": null,
+    "customfield_13235": null,
+    "customfield_16504": null,
+    "customfield_17835": null,
+    "customfield_13238": null,
+    "customfield_16503": null,
+    "customfield_17834": null,
+    "customfield_13237": null,
+    "customfield_16502": null,
+    "customfield_17833": null,
+    "customfield_13229": null,
+    "customfield_15408": null,
+    "customfield_17829": null,
+    "customfield_13228": null,
+    "customfield_17828": null,
+    "customfield_17827": null,
+    "customfield_15407": null,
+    "customfield_17826": null,
+    "customfield_10500": "1|i0bgjz:",
+    "customfield_12921": null,
+    "customfield_12920": null,
+    "customfield_12922": null,
+    "customfield_12924": null,
+    "assignee": {
+      "name": "T849897",
+      "key": "t849897",
+      "emailAddress": "kimberly.deans@telus.com",
+      "displayName": "Kim Deans",
+      "active": true,
+      "timeZone": "America/Toronto"
+    },
+    "customfield_19300": null,
+    "customfield_19301": null,
+    "customfield_19302": null,
+    "customfield_19307": null,
+    "customfield_19303": null,
+    "customfield_19304": null,
+    "customfield_19305": null,
+    "customfield_19306": null,
+    "customfield_11810": [
+      {
+        "value": "Business Connect",
+        "id": "26620"
+      }
+    ],
+    "customfield_11812": null,
+    "customfield_11811": [
+      {
+        "value": "Agent on Behalf",
+        "id": "26625"
+      }
+    ],
+    "customfield_11814": null,
+    "customfield_11813": null,
+    "customfield_11816": null,
+    "customfield_12905": null,
+    "customfield_11815": null,
+    "customfield_12904": null,
+    "customfield_11817": null,
+    "customfield_18200": null,
+    "customfield_18201": null,
+    "customfield_17110": null,
+    "customfield_11802": null,
+    "customfield_11807": [
+      {
+        "value": "TELUS",
+        "id": "11367"
+      }
+    ],
+    "customfield_11809": [
+      {
+        "value": "Save & Resume",
+        "id": "26643"
+      }
+    ],
+    "votes": {
+      "votes": 0,
+      "hasVoted": false
+    },
+    "worklog": {
+      "startAt": 0,
+      "maxResults": 20,
+      "total": 0,
+      "worklogs": []
+    },
+    "customfield_11808": [
+      {
+        "value": "Activation",
+        "id": "26632"
+      }
+    ],
+    "customfield_17102": null,
+    "customfield_17100": null,
+    "customfield_17106": null,
+    "customfield_17104": null,
+    "customfield_17109": null,
+    "customfield_10700": null,
+    "customfield_16002": null,
+    "customfield_16001": null,
+    "customfield_16000": null,
+    "customfield_16005": null,
+    "customfield_16004": null,
+    "customfield_16003": null,
+    "customfield_19500": null,
+    "customfield_19501": null,
+    "customfield_18400": null,
+    "customfield_18401": null,
+    "duedate": "2021-05-31",
+    "customfield_12530": null,
+    "customfield_12532": null,
+    "customfield_15800": "{}",
+    "customfield_12531": null,
+    "customfield_12533": null,
+    "customfield_12525": null,
+    "customfield_14704": null,
+    "customfield_12527": null,
+    "customfield_14702": null,
+    "customfield_14703": null,
+    "customfield_12529": null,
+    "customfield_10100": null,
+    "customfield_14700": null,
+    "customfield_12520": null,
+    "customfield_14701": null,
+    "customfield_13603": null,
+    "customfield_12513": null,
+    "customfield_13602": null,
+    "customfield_13605": null,
+    "customfield_12515": null,
+    "customfield_13604": null,
+    "customfield_12518": null,
+    "customfield_13607": null,
+    "customfield_12517": null,
+    "customfield_13606": null,
+    "customfield_13609": null,
+    "customfield_13608": null,
+    "status": {
+      "description": "The issue is considered finished, the resolution is correct. Issues which are closed can be reopened.",
+      "name": "Closed",
+      "id": "6",
+      "statusCategory": {
+        "id": 3,
+        "key": "done",
+        "colorName": "green",
+        "name": "Done"
+      }
+    },
+    "customfield_13601": null,
+    "customfield_13600": null,
+    "customfield_11414": [
+      {
+        "value": "Wireless [WLS]",
+        "id": "26509"
+      }
+    ],
+    "customfield_12744": null,
+    "aggregatetimeestimate": null,
+    "creator": {
+      "name": "x208225",
+      "key": "x208225",
+      "emailAddress": "mahalakshmi.ravindran@telus.com",
+      "displayName": "Mahalakshmi Ravindran",
+      "active": true,
+      "timeZone": "UTC"
+    },
+    "customfield_12501": null,
+    "customfield_12742": null,
+    "customfield_12734": null,
+    "customfield_12976": null,
+    "customfield_12975": null,
+    "customfield_11405": null,
+    "customfield_12736": null,
+    "customfield_12977": null,
+    "customfield_11406": null,
+    "customfield_12737": null,
+    "timespent": null,
+    "customfield_12970": null,
+    "customfield_12730": null,
+    "customfield_12972": null,
+    "customfield_12971": null,
+    "customfield_11401": null,
+    "customfield_12974": null,
+    "customfield_12973": null,
+    "customfield_12965": null,
+    "customfield_14902": null,
+    "customfield_12964": null,
+    "customfield_14903": null,
+    "customfield_12725": null,
+    "customfield_12967": null,
+    "customfield_14900": null,
+    "customfield_12724": null,
+    "customfield_12966": null,
+    "customfield_14901": null,
+    "customfield_12969": null,
+    "customfield_14906": null,
+    "customfield_12726": null,
+    "customfield_12968": null,
+    "customfield_14907": null,
+    "customfield_14904": null,
+    "customfield_14905": null,
+    "customfield_12961": null,
+    "customfield_12721": null,
+    "customfield_12963": null,
+    "customfield_10300": null,
+    "customfield_12962": null,
+    "customfield_12954": null,
+    "customfield_12953": null,
+    "customfield_12956": null,
+    "customfield_12955": null,
+    "customfield_12716": null,
+    "customfield_12957": null,
+    "customfield_19101": null,
+    "customfield_19102": null,
+    "customfield_19103": null,
+    "customfield_19104": null,
+    "customfield_12950": null,
+    "customfield_19105": null,
+    "customfield_12952": null,
+    "customfield_12951": null,
+    "customfield_12949": null,
+    "customfield_18000": null,
+    "customfield_12940": null,
+    "customfield_12933": null,
+    "customfield_13580": null,
+    "customfield_13340": null,
+    "customfield_13582": null,
+    "customfield_13581": null,
+    "customfield_12011": null,
+    "customfield_13100": null,
+    "customfield_13342": null,
+    "customfield_15521": null,
+    "customfield_17700": null,
+    "customfield_17942": null,
+    "customfield_13341": null,
+    "customfield_15522": null,
+    "customfield_17941": null,
+    "customfield_12013": null,
+    "customfield_13344": null,
+    "customfield_13586": null,
+    "customfield_17940": null,
+    "customfield_12496": null,
+    "customfield_13343": null,
+    "customfield_13585": null,
+    "customfield_15520": null,
+    "customfield_12015": null,
+    "customfield_12499": null,
+    "customfield_13104": null,
+    "customfield_13588": null,
+    "customfield_15525": null,
+    "customfield_17704": null,
+    "customfield_12498": null,
+    "customfield_13103": null,
+    "customfield_13345": null,
+    "customfield_13587": null,
+    "customfield_15526": null,
+    "customfield_17703": null,
+    "customfield_13106": null,
+    "customfield_15523": null,
+    "customfield_17702": null,
+    "customfield_17944": null,
+    "customfield_13589": null,
+    "customfield_15524": null,
+    "customfield_17701": null,
+    "customfield_17943": null,
+    "customfield_12008": null,
+    "customfield_13339": null,
+    "customfield_15518": null,
+    "customfield_17939": null,
+    "customfield_12249": null,
+    "customfield_13338": null,
+    "customfield_15519": null,
+    "customfield_17938": null,
+    "customfield_15516": null,
+    "customfield_16606": null,
+    "customfield_17937": null,
+    "customfield_15517": null,
+    "customfield_16605": null,
+    "customfield_17936": null,
+    "customfield_13571": null,
+    "customfield_13570": null,
+    "customfield_13331": null,
+    "customfield_16600": null,
+    "customfield_17931": null,
+    "customfield_13330": null,
+    "customfield_13572": null,
+    "customfield_15511": null,
+    "customfield_17930": null,
+    "customfield_12244": null,
+    "customfield_13575": null,
+    "customfield_12485": null,
+    "customfield_13332": null,
+    "customfield_13574": null,
+    "customfield_12004": null,
+    "customfield_13335": null,
+    "customfield_13577": null,
+    "customfield_16604": null,
+    "customfield_17935": null,
+    "customfield_12003": null,
+    "customfield_12245": null,
+    "customfield_12487": null,
+    "customfield_13334": null,
+    "customfield_13576": null,
+    "customfield_15515": null,
+    "customfield_16603": null,
+    "customfield_17934": null,
+    "customfield_12006": null,
+    "customfield_13337": null,
+    "customfield_13579": null,
+    "customfield_15512": null,
+    "customfield_16602": null,
+    "customfield_17933": null,
+    "customfield_12005": null,
+    "customfield_13336": null,
+    "customfield_13578": null,
+    "customfield_15513": null,
+    "customfield_16601": null,
+    "customfield_17932": null,
+    "customfield_17928": null,
+    "customfield_15508": null,
+    "customfield_17927": null,
+    "customfield_15505": null,
+    "customfield_17926": null,
+    "customfield_17925": {
+      "id": "31031",
+      "description": "Next Gen Commerce Release 2021-R4",
+      "name": "R4 - 2021",
+      "archived": false,
+      "released": false,
+      "releaseDate": "2021-06-14"
+    },
+    "customfield_15509": null,
+    "customfield_17929": null,
+    "components": [
+      {
+        "id": "25106",
+        "name": "MSS",
+        "description": "Mobility Sales System"
+      }
+    ],
+    "customfield_13560": null,
+    "customfield_13562": null,
+    "customfield_17920": null,
+    "customfield_13561": null,
+    "customfield_15500": null,
+    "customfield_13564": null,
+    "customfield_13566": null,
+    "customfield_15503": null,
+    "customfield_17924": null,
+    "customfield_17923": null,
+    "customfield_13568": null,
+    "customfield_13326": null,
+    "customfield_17922": null,
+    "customfield_13567": null,
+    "customfield_15502": null,
+    "customfield_17921": null,
+    "customfield_13559": null,
+    "customfield_17917": null,
+    "customfield_13558": null,
+    "customfield_17916": null,
+    "customfield_17915": null,
+    "customfield_17919": null,
+    "customfield_17918": null,
+    "customfield_13551": null,
+    "customfield_13550": null,
+    "customfield_13553": null,
+    "customfield_13552": null,
+    "customfield_13555": null,
+    "customfield_17913": null,
+    "customfield_13554": null,
+    "customfield_17912": null,
+    "customfield_13557": null,
+    "customfield_17911": null,
+    "customfield_13556": null,
+    "customfield_17910": null,
+    "customfield_13548": null,
+    "customfield_17906": null,
+    "customfield_13547": null,
+    "customfield_17905": null,
+    "customfield_17904": null,
+    "customfield_13549": null,
+    "customfield_16814": null,
+    "customfield_17903": null,
+    "customfield_17909": null,
+    "customfield_17908": null,
+    "customfield_17907": null,
+    "progress": {
+      "progress": 0,
+      "total": 0
+    },
+    "customfield_12691": null,
+    "customfield_12690": null,
+    "customfield_12692": null,
+    "project": {
+      "id": "22404",
+      "key": "NGCS",
+      "name": "Next Gen Commerce Support"
+    },
+    "customfield_13542": null,
+    "customfield_13541": null,
+    "customfield_13544": null,
+    "customfield_16813": null,
+    "customfield_17902": null,
+    "customfield_13543": null,
+    "customfield_16812": null,
+    "customfield_17901": null,
+    "customfield_13546": null,
+    "customfield_17900": null,
+    "customfield_13545": null,
+    "customfield_16810": null,
+    "customfield_13537": null,
+    "customfield_16806": null,
+    "customfield_11117": null,
+    "customfield_12689": null,
+    "customfield_13536": null,
+    "customfield_16805": null,
+    "customfield_11118": null,
+    "customfield_13539": null,
+    "customfield_16804": null,
+    "customfield_13538": null,
+    "customfield_16803": null,
+    "customfield_16809": null,
+    "customfield_16808": null,
+    "resolutiondate": "2021-11-17T14:49:21.000+0000",
+    "customfield_16807": null,
+    "customfield_13531": null,
+    "customfield_11111": null,
+    "customfield_13530": null,
+    "customfield_11112": "2021-05-28",
+    "customfield_12686": null,
+    "customfield_13533": null,
+    "customfield_16802": null,
+    "customfield_11113": "2021-05-28",
+    "customfield_13532": null,
+    "customfield_16801": null,
+    "customfield_11114": null,
+    "customfield_12688": null,
+    "customfield_13535": null,
+    "customfield_16800": null,
+    "customfield_11115": null,
+    "customfield_12687": null,
+    "customfield_13534": null,
+    "customfield_13526": null,
+    "customfield_15705": null,
+    "customfield_13525": null,
+    "customfield_15706": null,
+    "customfield_13528": null,
+    "customfield_15703": null,
+    "customfield_13527": null,
+    "customfield_15704": null,
+    "customfield_13529": null,
+    "customfield_10010": null,
+    "customfield_13520": null,
+    "customfield_10011": null,
+    "customfield_13522": null,
+    "customfield_15701": null,
+    "customfield_13521": null,
+    "customfield_15702": null,
+    "customfield_13524": null,
+    "customfield_12676": null,
+    "customfield_13523": null,
+    "customfield_15700": null,
+    "customfield_12668": null,
+    "customfield_13757": null,
+    "customfield_10006": null,
+    "customfield_13756": null,
+    "customfield_10007": null,
+    "customfield_13517": null,
+    "customfield_13759": null,
+    "customfield_10008": null,
+    "customfield_13516": null,
+    "customfield_13758": "No worklog defined",
+    "customfield_10009": null,
+    "customfield_13519": null,
+    "customfield_13518": null,
+    "summary": "R4 | PT140 | Business Connect | Error on clicking submit in Confirmation page for Office seat",
+    "customfield_13751": null,
+    "customfield_10000": null,
+    "customfield_12661": null,
+    "customfield_13750": null,
+    "customfield_10001": null,
+    "customfield_12664": null,
+    "customfield_13753": null,
+    "customfield_10002": "9223372036854775807",
+    "customfield_13752": null,
+    "customfield_12666": null,
+    "customfield_13755": null,
+    "customfield_13754": null,
+    "customfield_12657": null,
+    "customfield_13504": null,
+    "customfield_13746": null,
+    "customfield_13503": null,
+    "customfield_13745": null,
+    "customfield_13748": null,
+    "customfield_13505": null,
+    "customfield_13508": null,
+    "customfield_13507": null,
+    "customfield_13749": null,
+    "customfield_13509": null,
+    "customfield_17300": null,
+    "customfield_14030": null,
+    "customfield_14031": null,
+    "customfield_17303": null,
+    "customfield_17302": null,
+    "customfield_17301": null,
+    "customfield_17305": null,
+    "customfield_10908": null,
+    "customfield_14021": null,
+    "customfield_15110": null,
+    "customfield_16200": null,
+    "customfield_14022": null,
+    "customfield_15111": null,
+    "customfield_14020": null,
+    "customfield_15114": null,
+    "customfield_16204": null,
+    "customfield_14026": null,
+    "customfield_15115": null,
+    "customfield_15112": null,
+    "customfield_14023": null,
+    "customfield_16202": null,
+    "customfield_14024": null,
+    "customfield_15113": null,
+    "customfield_16201": null,
+    "customfield_14029": null,
+    "customfield_15118": null,
+    "customfield_16208": null,
+    "customfield_15119": null,
+    "customfield_16207": null,
+    "customfield_15116": null,
+    "customfield_14027": null,
+    "customfield_14028": null,
+    "customfield_16205": null,
+    "versions": [],
+    "customfield_14010": null,
+    "customfield_14011": null,
+    "customfield_14014": null,
+    "customfield_15104": null,
+    "customfield_14015": null,
+    "customfield_14012": null,
+    "customfield_14013": null,
+    "customfield_15107": null,
+    "customfield_14018": null,
+    "customfield_15108": null,
+    "customfield_14019": null,
+    "customfield_15105": null,
+    "customfield_14016": null,
+    "customfield_15106": null,
+    "customfield_14017": null,
+    "customfield_14009": null,
+    "customfield_13151": null,
+    "customfield_16420": null,
+    "customfield_13150": null,
+    "customfield_14000": null,
+    "customfield_13153": {
+      "value": "PT140",
+      "id": "26404"
+    },
+    "customfield_13152": null,
+    "customfield_13155": null,
+    "customfield_14003": "1857202",
+    "customfield_18603": null,
+    "customfield_13154": null,
+    "customfield_14004": null,
+    "customfield_18604": null,
+    "customfield_14001": null,
+    "customfield_18605": null,
+    "customfield_13156": null,
+    "customfield_14002": null,
+    "customfield_16421": null,
+    "customfield_17510": null,
+    "aggregateprogress": {
+      "progress": 0,
+      "total": 0
+    },
+    "customfield_14007": null,
+    "customfield_14008": null,
+    "customfield_18600": null,
+    "customfield_14005": null,
+    "customfield_18601": null,
+    "customfield_14006": null,
+    "customfield_18602": null,
+    "customfield_17509": null,
+    "customfield_16419": null,
+    "customfield_17508": null,
+    "customfield_16418": null,
+    "customfield_17507": null,
+    "customfield_13140": null,
+    "customfield_12292": null,
+    "customfield_12295": null,
+    "customfield_13142": null,
+    "customfield_13141": null,
+    "customfield_12055": null,
+    "customfield_13144": null,
+    "customfield_16413": null,
+    "customfield_17502": null,
+    "customfield_12054": null,
+    "customfield_13143": null,
+    "customfield_16412": null,
+    "customfield_17501": null,
+    "customfield_13146": null,
+    "customfield_16411": null,
+    "customfield_17500": null,
+    "customfield_13145": null,
+    "customfield_16410": null,
+    "customfield_13148": {
+      "value": "Regression",
+      "id": "30126"
+    },
+    "customfield_16417": null,
+    "customfield_17506": null,
+    "customfield_13147": null,
+    "customfield_16416": null,
+    "customfield_17505": null,
+    "customfield_16415": null,
+    "customfield_17504": null,
+    "customfield_13149": null,
+    "customfield_16414": null,
+    "customfield_17503": null,
+    "customfield_16409": null,
+    "customfield_16408": null,
+    "customfield_16407": null,
+    "customfield_12280": null,
+    "customfield_12282": null,
+    "customfield_12284": null,
+    "customfield_12044": null,
+    "customfield_12286": null,
+    "customfield_13133": null,
+    "customfield_16402": null,
+    "customfield_12285": null,
+    "customfield_13132": null,
+    "customfield_16401": null,
+    "customfield_12288": null,
+    "customfield_13135": null,
+    "customfield_16400": null,
+    "customfield_12287": null,
+    "customfield_13134": null,
+    "customfield_12048": null,
+    "customfield_13137": null,
+    "customfield_16406": null,
+    "customfield_12047": null,
+    "customfield_13136": null,
+    "customfield_16405": null,
+    "customfield_13139": null,
+    "customfield_16404": null,
+    "customfield_13138": null,
+    "customfield_16403": null,
+    "customfield_13122": null,
+    "customfield_12032": null,
+    "customfield_13121": null,
+    "customfield_14213": null,
+    "customfield_12277": null,
+    "customfield_13124": null,
+    "customfield_14210": null,
+    "customfield_12276": null,
+    "customfield_13123": null,
+    "customfield_14211": null,
+    "customfield_13126": null,
+    "customfield_12036": null,
+    "customfield_12278": null,
+    "customfield_13125": null,
+    "customfield_14214": null,
+    "customfield_13127": null,
+    "customfield_14215": null,
+    "customfield_14209": null,
+    "customfield_13118": null,
+    "customfield_14207": null,
+    "customfield_17717": null,
+    "customfield_14208": null,
+    "customfield_15539": null,
+    "customfield_17716": null,
+    "customfield_12260": null,
+    "customfield_13591": null,
+    "customfield_13590": null,
+    "customfield_12020": null,
+    "customfield_12262": null,
+    "customfield_13592": null,
+    "customfield_12264": null,
+    "customfield_13111": null,
+    "customfield_14201": null,
+    "customfield_17711": null,
+    "customfield_12021": null,
+    "customfield_13110": null,
+    "customfield_15533": null,
+    "customfield_17710": null,
+    "customfield_13113": null,
+    "customfield_15530": null,
+    "customfield_12023": null,
+    "customfield_12265": null,
+    "customfield_13112": null,
+    "customfield_13596": null,
+    "customfield_14200": null,
+    "customfield_15531": null,
+    "customfield_12026": null,
+    "customfield_13115": null,
+    "customfield_15536": null,
+    "customfield_17715": null,
+    "customfield_13114": null,
+    "customfield_17714": null,
+    "customfield_12028": null,
+    "customfield_13117": null,
+    "customfield_17713": null,
+    "customfield_13116": null,
+    "customfield_15535": null,
+    "customfield_17712": null,
+    "customfield_18800": null,
+    "customfield_13108": null,
+    "customfield_15529": null,
+    "customfield_17708": null,
+    "customfield_13107": null,
+    "customfield_17707": null,
+    "customfield_15527": null,
+    "customfield_17706": null,
+    "customfield_13109": null,
+    "customfield_15528": null,
+    "customfield_17705": null,
+    "customfield_17709": null
+  },
+  "changelog": {
+    "startAt": 0,
+    "maxResults": 58,
+    "total": 58,
+    "histories": [
+      {
+        "id": "11622679",
+        "author": {
+          "name": "x231199",
+          "key": "x231199",
+          "emailAddress": "mayuri.sanghani@telus.com",
+          "displayName": "Mayuri Sanghani",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-05-28T17:33:49.000+0000",
+        "items": [
+          {
+            "field": "duedate",
+            "fieldtype": "jira",
+            "from": null,
+            "fromString": null,
+            "to": "2021-05-31",
+            "toString": "2021-05-31 00:00:00.0"
+          }
+        ],
+        "historyMetadata": {}
+      },
+      {
+        "id": "11622699",
+        "author": {
+          "name": "x208225",
+          "key": "x208225",
+          "emailAddress": "mahalakshmi.ravindran@telus.com",
+          "displayName": "Mahalakshmi Ravindran",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-05-28T17:34:15.000+0000",
+        "items": [
+          {
+            "field": "Start date",
+            "fieldtype": "custom",
+            "from": null,
+            "fromString": null,
+            "to": "2021-05-28",
+            "toString": "28/May/21"
+          },
+          {
+            "field": "End date",
+            "fieldtype": "custom",
+            "from": null,
+            "fromString": null,
+            "to": "2021-05-28",
+            "toString": "28/May/21"
+          }
+        ]
+      },
+      {
+        "id": "11622702",
+        "author": {
+          "name": "x208225",
+          "key": "x208225",
+          "emailAddress": "mahalakshmi.ravindran@telus.com",
+          "displayName": "Mahalakshmi Ravindran",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-05-28T17:34:42.000+0000",
+        "items": [
+          {
+            "field": "Link",
+            "fieldtype": "jira",
+            "from": null,
+            "fromString": null,
+            "to": "NGCS-3561",
+            "toString": "This issue is mentioned by NGCS-3561"
+          }
+        ]
+      },
+      {
+        "id": "11622705",
+        "author": {
+          "name": "x203722",
+          "key": "x203722",
+          "emailAddress": "kaushik.sarangi@telus.com",
+          "displayName": "Kaushik Sarangi",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-05-28T17:34:56.000+0000",
+        "items": [
+          {
+            "field": "status",
+            "fieldtype": "jira",
+            "from": "10628",
+            "fromString": "Backlog",
+            "to": "10250",
+            "toString": "Approved"
+          }
+        ]
+      },
+      {
+        "id": "11622710",
+        "author": {
+          "name": "x203722",
+          "key": "x203722",
+          "emailAddress": "kaushik.sarangi@telus.com",
+          "displayName": "Kaushik Sarangi",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-05-28T17:35:04.000+0000",
+        "items": [
+          {
+            "field": "assignee",
+            "fieldtype": "jira",
+            "from": "x203722",
+            "fromString": "Kaushik Sarangi",
+            "to": "x150045",
+            "toString": "Elaine Gou"
+          }
+        ]
+      },
+      {
+        "id": "11623901",
+        "author": {
+          "name": "x150045",
+          "key": "x150045",
+          "emailAddress": "elaine.gou@telus.com",
+          "displayName": "Elaine Gou",
+          "active": true,
+          "timeZone": "America/Toronto"
+        },
+        "created": "2021-05-28T18:24:09.000+0000",
+        "items": [
+          {
+            "field": "Attachment",
+            "fieldtype": "jira",
+            "from": null,
+            "fromString": null,
+            "to": "1005640",
+            "toString": "NGCS-3609_RSO_multi_submit.txt"
+          }
+        ]
+      },
+      {
+        "id": "11623924",
+        "author": {
+          "name": "x150045",
+          "key": "x150045",
+          "emailAddress": "elaine.gou@telus.com",
+          "displayName": "Elaine Gou",
+          "active": true,
+          "timeZone": "America/Toronto"
+        },
+        "created": "2021-05-28T18:24:58.000+0000",
+        "items": [
+          {
+            "field": "assignee",
+            "fieldtype": "jira",
+            "from": "x150045",
+            "fromString": "Elaine Gou",
+            "to": "x203722",
+            "toString": "Kaushik Sarangi"
+          }
+        ]
+      },
+      {
+        "id": "11629570",
+        "author": {
+          "name": "x203722",
+          "key": "x203722",
+          "emailAddress": "kaushik.sarangi@telus.com",
+          "displayName": "Kaushik Sarangi",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-05-31T10:13:11.000+0000",
+        "items": [
+          {
+            "field": "assignee",
+            "fieldtype": "jira",
+            "from": "x203722",
+            "fromString": "Kaushik Sarangi",
+            "to": "x208225",
+            "toString": "Mahalakshmi Ravindran"
+          }
+        ]
+      },
+      {
+        "id": "11634093",
+        "author": {
+          "name": "x208225",
+          "key": "x208225",
+          "emailAddress": "mahalakshmi.ravindran@telus.com",
+          "displayName": "Mahalakshmi Ravindran",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-05-31T16:12:49.000+0000",
+        "items": [
+          {
+            "field": "Link",
+            "fieldtype": "jira",
+            "from": null,
+            "fromString": null,
+            "to": "NGCS-3618",
+            "toString": "This issue mentions NGCS-3618"
+          }
+        ]
+      },
+      {
+        "id": "11644486",
+        "author": {
+          "name": "x208225",
+          "key": "x208225",
+          "emailAddress": "mahalakshmi.ravindran@telus.com",
+          "displayName": "Mahalakshmi Ravindran",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-06-01T10:52:42.000+0000",
+        "items": [
+          {
+            "field": "assignee",
+            "fieldtype": "jira",
+            "from": "x208225",
+            "fromString": "Mahalakshmi Ravindran",
+            "to": "x203722",
+            "toString": "Kaushik Sarangi"
+          }
+        ]
+      },
+      {
+        "id": "11644493",
+        "author": {
+          "name": "x208225",
+          "key": "x208225",
+          "emailAddress": "mahalakshmi.ravindran@telus.com",
+          "displayName": "Mahalakshmi Ravindran",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-06-01T10:55:18.000+0000",
+        "items": [
+          {
+            "field": "priority",
+            "fieldtype": "jira",
+            "from": "8",
+            "fromString": "High",
+            "to": "6",
+            "toString": "Medium"
+          }
+        ]
+      },
+      {
+        "id": "11644496",
+        "author": {
+          "name": "x203722",
+          "key": "x203722",
+          "emailAddress": "kaushik.sarangi@telus.com",
+          "displayName": "Kaushik Sarangi",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-06-01T10:56:33.000+0000",
+        "items": [
+          {
+            "field": "Fix Version",
+            "fieldtype": "jira",
+            "from": null,
+            "fromString": null,
+            "to": "31031",
+            "toString": "R4 - 2021"
+          }
+        ]
+      },
+      {
+        "id": "11644499",
+        "author": {
+          "name": "x203722",
+          "key": "x203722",
+          "emailAddress": "kaushik.sarangi@telus.com",
+          "displayName": "Kaushik Sarangi",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-06-01T10:56:55.000+0000",
+        "items": [
+          {
+            "field": "Root Cause",
+            "fieldtype": "custom",
+            "from": null,
+            "fromString": null,
+            "to": "27611",
+            "toString": "Unable to Recreate"
+          }
+        ]
+      },
+      {
+        "id": "11648881",
+        "author": {
+          "name": "x203722",
+          "key": "x203722",
+          "emailAddress": "kaushik.sarangi@telus.com",
+          "displayName": "Kaushik Sarangi",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-06-01T15:48:16.000+0000",
+        "items": [
+          {
+            "field": "assignee",
+            "fieldtype": "jira",
+            "from": "x203722",
+            "fromString": "Kaushik Sarangi",
+            "to": "x208225",
+            "toString": "Mahalakshmi Ravindran"
+          }
+        ]
+      },
+      {
+        "id": "11660058",
+        "author": {
+          "name": "x208225",
+          "key": "x208225",
+          "emailAddress": "mahalakshmi.ravindran@telus.com",
+          "displayName": "Mahalakshmi Ravindran",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-06-02T11:42:42.000+0000",
+        "items": [
+          {
+            "field": "Attachment",
+            "fieldtype": "jira",
+            "from": null,
+            "fromString": null,
+            "to": "1008251",
+            "toString": "BC_Confirmation page_Issue.PNG"
+          }
+        ]
+      },
+      {
+        "id": "11660061",
+        "author": {
+          "name": "x203722",
+          "key": "x203722",
+          "emailAddress": "kaushik.sarangi@telus.com",
+          "displayName": "Kaushik Sarangi",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-06-02T11:43:01.000+0000",
+        "items": [
+          {
+            "field": "assignee",
+            "fieldtype": "jira",
+            "from": "x208225",
+            "fromString": "Mahalakshmi Ravindran",
+            "to": "x150045",
+            "toString": "Elaine Gou"
+          }
+        ]
+      },
+      {
+        "id": "11660062",
+        "author": {
+          "name": "x208225",
+          "key": "x208225",
+          "emailAddress": "mahalakshmi.ravindran@telus.com",
+          "displayName": "Mahalakshmi Ravindran",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-06-02T11:43:37.000+0000",
+        "items": [
+          {
+            "field": "assignee",
+            "fieldtype": "jira",
+            "from": "x150045",
+            "fromString": "Elaine Gou",
+            "to": "x203722",
+            "toString": "Kaushik Sarangi"
+          }
+        ]
+      },
+      {
+        "id": "11660069",
+        "author": {
+          "name": "x203722",
+          "key": "x203722",
+          "emailAddress": "kaushik.sarangi@telus.com",
+          "displayName": "Kaushik Sarangi",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-06-02T11:45:58.000+0000",
+        "items": [
+          {
+            "field": "assignee",
+            "fieldtype": "jira",
+            "from": "x203722",
+            "fromString": "Kaushik Sarangi",
+            "to": "x150045",
+            "toString": "Elaine Gou"
+          }
+        ]
+      },
+      {
+        "id": "11661562",
+        "author": {
+          "name": "x150045",
+          "key": "x150045",
+          "emailAddress": "elaine.gou@telus.com",
+          "displayName": "Elaine Gou",
+          "active": true,
+          "timeZone": "America/Toronto"
+        },
+        "created": "2021-06-02T14:05:45.000+0000",
+        "items": [
+          {
+            "field": "Attachment",
+            "fieldtype": "jira",
+            "from": null,
+            "fromString": null,
+            "to": "1008412",
+            "toString": "NGCS-3609_RSO_017957641044754498.txt"
+          }
+        ]
+      },
+      {
+        "id": "11661659",
+        "author": {
+          "name": "x203722",
+          "key": "x203722",
+          "emailAddress": "kaushik.sarangi@telus.com",
+          "displayName": "Kaushik Sarangi",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-06-02T14:11:10.000+0000",
+        "items": [
+          {
+            "field": "assignee",
+            "fieldtype": "jira",
+            "from": "x150045",
+            "fromString": "Elaine Gou",
+            "to": "x187536",
+            "toString": "Jose Mena"
+          }
+        ]
+      },
+      {
+        "id": "11661662",
+        "author": {
+          "name": "x203722",
+          "key": "x203722",
+          "emailAddress": "kaushik.sarangi@telus.com",
+          "displayName": "Kaushik Sarangi",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-06-02T14:11:24.000+0000",
+        "items": [
+          {
+            "field": "Root Cause",
+            "fieldtype": "custom",
+            "from": "27611",
+            "fromString": "Unable to Recreate",
+            "to": null,
+            "toString": ""
+          }
+        ]
+      },
+      {
+        "id": "11668405",
+        "author": {
+          "name": "x187536",
+          "key": "x187536",
+          "emailAddress": "jose.mena@telus.com",
+          "displayName": "Jose Mena",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-06-02T18:15:33.000+0000",
+        "items": [
+          {
+            "field": "assignee",
+            "fieldtype": "jira",
+            "from": "x187536",
+            "fromString": "Jose Mena",
+            "to": "x150045",
+            "toString": "Elaine Gou"
+          }
+        ]
+      },
+      {
+        "id": "11668882",
+        "author": {
+          "name": "x203722",
+          "key": "x203722",
+          "emailAddress": "kaushik.sarangi@telus.com",
+          "displayName": "Kaushik Sarangi",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-06-02T18:41:29.000+0000",
+        "items": [
+          {
+            "field": "assignee",
+            "fieldtype": "jira",
+            "from": "x150045",
+            "fromString": "Elaine Gou",
+            "to": "x187536",
+            "toString": "Jose Mena"
+          }
+        ]
+      },
+      {
+        "id": "11668896",
+        "author": {
+          "name": "x150045",
+          "key": "x150045",
+          "emailAddress": "elaine.gou@telus.com",
+          "displayName": "Elaine Gou",
+          "active": true,
+          "timeZone": "America/Toronto"
+        },
+        "created": "2021-06-02T18:42:20.000+0000",
+        "items": [
+          {
+            "field": "Attachment",
+            "fieldtype": "jira",
+            "from": null,
+            "fromString": null,
+            "to": "1008835",
+            "toString": "NGCS-3609_RSO_017957641044754498_successful.txt"
+          }
+        ]
+      },
+      {
+        "id": "11671931",
+        "author": {
+          "name": "x187536",
+          "key": "x187536",
+          "emailAddress": "jose.mena@telus.com",
+          "displayName": "Jose Mena",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-06-02T21:25:41.000+0000",
+        "items": [
+          {
+            "field": "Attachment",
+            "fieldtype": "jira",
+            "from": null,
+            "fromString": null,
+            "to": "1009093",
+            "toString": "image-2021-06-02-17-25-39-685.png"
+          }
+        ]
+      },
+      {
+        "id": "11671950",
+        "author": {
+          "name": "x187536",
+          "key": "x187536",
+          "emailAddress": "jose.mena@telus.com",
+          "displayName": "Jose Mena",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-06-02T21:26:24.000+0000",
+        "items": [
+          {
+            "field": "assignee",
+            "fieldtype": "jira",
+            "from": "x187536",
+            "fromString": "Jose Mena",
+            "to": "t958004",
+            "toString": "Sachin Sachin"
+          }
+        ]
+      },
+      {
+        "id": "11671952",
+        "author": {
+          "name": "x187536",
+          "key": "x187536",
+          "emailAddress": "jose.mena@telus.com",
+          "displayName": "Jose Mena",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-06-02T21:26:28.000+0000",
+        "items": [
+          {
+            "field": "status",
+            "fieldtype": "jira",
+            "from": "10250",
+            "fromString": "Approved",
+            "to": "3",
+            "toString": "In Progress"
+          }
+        ]
+      },
+      {
+        "id": "11675825",
+        "author": {
+          "name": "T958004",
+          "key": "t958004",
+          "emailAddress": "sachin.sachin@telus.com",
+          "displayName": "Sachin Sachin",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-06-03T13:11:47.000+0000",
+        "items": [
+          {
+            "field": "assignee",
+            "fieldtype": "jira",
+            "from": "t958004",
+            "fromString": "Sachin Sachin",
+            "to": "t958039",
+            "toString": "Riya Raju"
+          }
+        ]
+      },
+      {
+        "id": "11692962",
+        "author": {
+          "name": "x203722",
+          "key": "x203722",
+          "emailAddress": "kaushik.sarangi@telus.com",
+          "displayName": "Kaushik Sarangi",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-06-04T16:40:29.000+0000",
+        "items": [
+          {
+            "field": "assignee",
+            "fieldtype": "jira",
+            "from": "t958039",
+            "fromString": "Riya Raju",
+            "to": "x162473",
+            "toString": "Vinod A"
+          }
+        ]
+      },
+      {
+        "id": "11694986",
+        "author": {
+          "name": "T958039",
+          "key": "t958039",
+          "emailAddress": "riya.raju@telus.com",
+          "displayName": "Riya Raju",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-06-04T18:52:26.000+0000",
+        "items": [
+          {
+            "field": "Comment",
+            "fieldtype": "jira",
+            "from": "As per Petru no regression impact .\u00a0 We could not reproduce the issue in sprint sandbox . Since the code fix risk in 0% Petru would like to move the code to PT 140 and test from UI .\u00a0",
+            "fromString": null,
+            "to": null,
+            "toString": null
+          }
+        ]
+      },
+      {
+        "id": "11708064",
+        "author": {
+          "name": "x203722",
+          "key": "x203722",
+          "emailAddress": "kaushik.sarangi@telus.com",
+          "displayName": "Kaushik Sarangi",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-06-07T17:47:55.000+0000",
+        "items": [
+          {
+            "field": "assignee",
+            "fieldtype": "jira",
+            "from": "x162473",
+            "fromString": "Vinod A",
+            "to": "x203722",
+            "toString": "Kaushik Sarangi"
+          }
+        ]
+      },
+      {
+        "id": "11715571",
+        "author": {
+          "name": "x208225",
+          "key": "x208225",
+          "emailAddress": "mahalakshmi.ravindran@telus.com",
+          "displayName": "Mahalakshmi Ravindran",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-06-08T07:35:20.000+0000",
+        "items": [
+          {
+            "field": "assignee",
+            "fieldtype": "jira",
+            "from": "x203722",
+            "fromString": "Kaushik Sarangi",
+            "to": "x159842",
+            "toString": "Branko Bulatovic"
+          }
+        ]
+      },
+      {
+        "id": "11722328",
+        "author": {
+          "name": "x203722",
+          "key": "x203722",
+          "emailAddress": "kaushik.sarangi@telus.com",
+          "displayName": "Kaushik Sarangi",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-06-08T18:02:31.000+0000",
+        "items": [
+          {
+            "field": "Attachment",
+            "fieldtype": "jira",
+            "from": null,
+            "fromString": null,
+            "to": "1012761",
+            "toString": "BC80569210-RSO-No Context Message.txt"
+          }
+        ]
+      },
+      {
+        "id": "11722331",
+        "author": {
+          "name": "x203722",
+          "key": "x203722",
+          "emailAddress": "kaushik.sarangi@telus.com",
+          "displayName": "Kaushik Sarangi",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-06-08T18:02:36.000+0000",
+        "items": [
+          {
+            "field": "Attachment",
+            "fieldtype": "jira",
+            "from": null,
+            "fromString": null,
+            "to": "1012762",
+            "toString": "BC80571230-RSO Error Message.txt"
+          }
+        ]
+      },
+      {
+        "id": "11722397",
+        "author": {
+          "name": "x203722",
+          "key": "x203722",
+          "emailAddress": "kaushik.sarangi@telus.com",
+          "displayName": "Kaushik Sarangi",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-06-08T18:04:46.000+0000",
+        "items": [
+          {
+            "field": "Attachment",
+            "fieldtype": "jira",
+            "from": null,
+            "fromString": null,
+            "to": "1012769",
+            "toString": "017951613900161124-No RSO Context message-working transaction in PT140.txt"
+          }
+        ]
+      },
+      {
+        "id": "11738891",
+        "author": {
+          "name": "x203722",
+          "key": "x203722",
+          "emailAddress": "kaushik.sarangi@telus.com",
+          "displayName": "Kaushik Sarangi",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-06-09T19:16:58.000+0000",
+        "items": [
+          {
+            "field": "assignee",
+            "fieldtype": "jira",
+            "from": "x159842",
+            "fromString": "Branko Bulatovic",
+            "to": "t839151",
+            "toString": "Prithi Gandhi"
+          }
+        ]
+      },
+      {
+        "id": "11749425",
+        "author": {
+          "name": "x203722",
+          "key": "x203722",
+          "emailAddress": "kaushik.sarangi@telus.com",
+          "displayName": "Kaushik Sarangi",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-06-10T16:10:37.000+0000",
+        "items": [
+          {
+            "field": "status",
+            "fieldtype": "jira",
+            "from": "3",
+            "fromString": "In Progress",
+            "to": "10732",
+            "toString": "Deferred"
+          }
+        ]
+      },
+      {
+        "id": "11749429",
+        "author": {
+          "name": "x203722",
+          "key": "x203722",
+          "emailAddress": "kaushik.sarangi@telus.com",
+          "displayName": "Kaushik Sarangi",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-06-10T16:10:52.000+0000",
+        "items": [
+          {
+            "field": "Fix Version",
+            "fieldtype": "jira",
+            "from": null,
+            "fromString": null,
+            "to": "30984",
+            "toString": "FUTURE RELEASE"
+          },
+          {
+            "field": "Fix Version",
+            "fieldtype": "jira",
+            "from": "31031",
+            "fromString": "R4 - 2021",
+            "to": null,
+            "toString": null
+          }
+        ]
+      },
+      {
+        "id": "11749447",
+        "author": {
+          "name": "x203722",
+          "key": "x203722",
+          "emailAddress": "kaushik.sarangi@telus.com",
+          "displayName": "Kaushik Sarangi",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-06-10T16:11:19.000+0000",
+        "items": [
+          {
+            "field": "Root Cause",
+            "fieldtype": "custom",
+            "from": null,
+            "fromString": null,
+            "to": "27607",
+            "toString": "Design"
+          }
+        ]
+      },
+      {
+        "id": "11779134",
+        "author": {
+          "name": "x203722",
+          "key": "x203722",
+          "emailAddress": "kaushik.sarangi@telus.com",
+          "displayName": "Kaushik Sarangi",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-06-14T17:19:51.000+0000",
+        "items": [
+          {
+            "field": "Fix Version",
+            "fieldtype": "jira",
+            "from": "30984",
+            "fromString": "FUTURE RELEASE",
+            "to": null,
+            "toString": null
+          }
+        ]
+      },
+      {
+        "id": "11779151",
+        "author": {
+          "name": "x203722",
+          "key": "x203722",
+          "emailAddress": "kaushik.sarangi@telus.com",
+          "displayName": "Kaushik Sarangi",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-06-14T17:20:23.000+0000",
+        "items": [
+          {
+            "field": "Fix Version",
+            "fieldtype": "jira",
+            "from": null,
+            "fromString": null,
+            "to": "30984",
+            "toString": "FUTURE RELEASE"
+          }
+        ]
+      },
+      {
+        "id": "11779166",
+        "author": {
+          "name": "x203722",
+          "key": "x203722",
+          "emailAddress": "kaushik.sarangi@telus.com",
+          "displayName": "Kaushik Sarangi",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-06-14T17:22:18.000+0000",
+        "items": [
+          {
+            "field": "Link",
+            "fieldtype": "jira",
+            "from": null,
+            "fromString": null,
+            "to": "NGCS-3819",
+            "toString": "This issue mentions NGCS-3819"
+          }
+        ]
+      },
+      {
+        "id": "11809590",
+        "author": {
+          "name": "x108378",
+          "key": "x108378",
+          "emailAddress": "danny.sit@telus.com",
+          "displayName": "Danny Sit",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-06-16T19:40:18.000+0000",
+        "items": [
+          {
+            "field": "Link",
+            "fieldtype": "jira",
+            "from": null,
+            "fromString": null,
+            "to": "NGCS-3850",
+            "toString": "This issue is mentioned by NGCS-3850"
+          }
+        ]
+      },
+      {
+        "id": "11817518",
+        "author": {
+          "name": "T839151",
+          "key": "t839151",
+          "emailAddress": "prithi.gandhi@telus.com",
+          "displayName": "Prithi Gandhi",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-06-17T14:56:48.000+0000",
+        "items": [
+          {
+            "field": "Fix Version",
+            "fieldtype": "jira",
+            "from": null,
+            "fromString": null,
+            "to": "32597",
+            "toString": "R4.5- 2021"
+          },
+          {
+            "field": "Fix Version",
+            "fieldtype": "jira",
+            "from": "30984",
+            "fromString": "FUTURE RELEASE",
+            "to": null,
+            "toString": null
+          }
+        ]
+      },
+      {
+        "id": "11817521",
+        "author": {
+          "name": "T839151",
+          "key": "t839151",
+          "emailAddress": "prithi.gandhi@telus.com",
+          "displayName": "Prithi Gandhi",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-06-17T14:56:52.000+0000",
+        "items": [
+          {
+            "field": "status",
+            "fieldtype": "jira",
+            "from": "10732",
+            "fromString": "Deferred",
+            "to": "13445",
+            "toString": "Approved for Development"
+          }
+        ]
+      },
+      {
+        "id": "11817530",
+        "author": {
+          "name": "T839151",
+          "key": "t839151",
+          "emailAddress": "prithi.gandhi@telus.com",
+          "displayName": "Prithi Gandhi",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-06-17T14:57:09.000+0000",
+        "items": [
+          {
+            "field": "assignee",
+            "fieldtype": "jira",
+            "from": "t839151",
+            "fromString": "Prithi Gandhi",
+            "to": "x135217",
+            "toString": "Amar Payagonda Patil"
+          }
+        ]
+      },
+      {
+        "id": "11831573",
+        "author": {
+          "name": "T839151",
+          "key": "t839151",
+          "emailAddress": "prithi.gandhi@telus.com",
+          "displayName": "Prithi Gandhi",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-06-18T14:10:33.000+0000",
+        "items": [
+          {
+            "field": "Link",
+            "fieldtype": "jira",
+            "from": null,
+            "fromString": null,
+            "to": "NGCS-3871",
+            "toString": "This issue is mentioned by NGCS-3871"
+          }
+        ]
+      },
+      {
+        "id": "11833648",
+        "author": {
+          "name": "x203722",
+          "key": "x203722",
+          "emailAddress": "kaushik.sarangi@telus.com",
+          "displayName": "Kaushik Sarangi",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-06-18T15:54:13.000+0000",
+        "items": [
+          {
+            "field": "status",
+            "fieldtype": "jira",
+            "from": "13445",
+            "fromString": "Approved for Development",
+            "to": "10350",
+            "toString": "Test Ready"
+          },
+          {
+            "field": "Root Cause",
+            "fieldtype": "custom",
+            "from": "27607",
+            "fromString": "Design",
+            "to": "27603",
+            "toString": "Code"
+          }
+        ]
+      },
+      {
+        "id": "11833649",
+        "author": {
+          "name": "x231199",
+          "key": "x231199",
+          "emailAddress": "mayuri.sanghani@telus.com",
+          "displayName": "Mayuri Sanghani",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-06-18T15:54:13.000+0000",
+        "items": [
+          {
+            "field": "assignee",
+            "fieldtype": "jira",
+            "from": "x135217",
+            "fromString": "Amar Payagonda Patil",
+            "to": "x208225",
+            "toString": "Mahalakshmi Ravindran"
+          }
+        ]
+      },
+      {
+        "id": "11868236",
+        "author": {
+          "name": "x203720",
+          "key": "x203720",
+          "emailAddress": "sanjeev.k_v@telus.com",
+          "displayName": "Sanjeev K v",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-06-22T20:44:26.000+0000",
+        "items": [
+          {
+            "field": "Link",
+            "fieldtype": "jira",
+            "from": null,
+            "fromString": null,
+            "to": "QE-3",
+            "toString": "This issue mentions QE-3"
+          }
+        ]
+      },
+      {
+        "id": "11868265",
+        "author": {
+          "name": "x203720",
+          "key": "x203720",
+          "emailAddress": "sanjeev.k_v@telus.com",
+          "displayName": "Sanjeev K v",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-06-22T20:45:34.000+0000",
+        "items": [
+          {
+            "field": "assignee",
+            "fieldtype": "jira",
+            "from": "x208225",
+            "fromString": "Mahalakshmi Ravindran",
+            "to": "t931886",
+            "toString": "Vladimir Martintsov"
+          }
+        ]
+      },
+      {
+        "id": "11868495",
+        "author": {
+          "name": "T931886",
+          "key": "t931886",
+          "emailAddress": "vladimir.martintsov@telus.com",
+          "displayName": "Vladimir Martintsov",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-06-22T21:04:06.000+0000",
+        "items": [
+          {
+            "field": "assignee",
+            "fieldtype": "jira",
+            "from": "t931886",
+            "fromString": "Vladimir Martintsov",
+            "to": "t849897",
+            "toString": "Kim Deans"
+          }
+        ]
+      },
+      {
+        "id": "11889405",
+        "author": {
+          "name": "x226243",
+          "key": "x226243",
+          "emailAddress": "Nayana.Alahari@telus.com",
+          "displayName": "Nayana Alahari",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-06-24T16:42:38.000+0000",
+        "items": [
+          {
+            "field": "Link",
+            "fieldtype": "jira",
+            "from": null,
+            "fromString": null,
+            "to": "NGCS-3982",
+            "toString": "This issue is mentioned by NGCS-3982"
+          }
+        ]
+      },
+      {
+        "id": "12391649",
+        "author": {
+          "name": "x208225",
+          "key": "x208225",
+          "emailAddress": "mahalakshmi.ravindran@telus.com",
+          "displayName": "Mahalakshmi Ravindran",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-08-19T12:41:12.000+0000",
+        "items": [
+          {
+            "field": "Link",
+            "fieldtype": "jira",
+            "from": null,
+            "fromString": null,
+            "to": "NGCQE-2889",
+            "toString": "This issue is mentioned by NGCQE-2889"
+          }
+        ]
+      },
+      {
+        "id": "12421949",
+        "author": {
+          "name": "x206562",
+          "key": "x206562",
+          "emailAddress": "jesus.pasillas_cervantes@telus.com",
+          "displayName": "Jesus Pasillas Cervantes",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-08-23T16:33:46.000+0000",
+        "items": [
+          {
+            "field": "Link",
+            "fieldtype": "jira",
+            "from": null,
+            "fromString": null,
+            "to": "NGCQE-3076",
+            "toString": "This issue is mentioned by NGCQE-3076"
+          }
+        ]
+      },
+      {
+        "id": "13322385",
+        "author": {
+          "name": "T849897",
+          "key": "t849897",
+          "emailAddress": "kimberly.deans@telus.com",
+          "displayName": "Kim Deans",
+          "active": true,
+          "timeZone": "America/Toronto"
+        },
+        "created": "2021-11-17T14:49:21.000+0000",
+        "items": [
+          {
+            "field": "resolution",
+            "fieldtype": "jira",
+            "from": null,
+            "fromString": null,
+            "to": "10000",
+            "toString": "Done"
+          },
+          {
+            "field": "status",
+            "fieldtype": "jira",
+            "from": "10350",
+            "fromString": "Test Ready",
+            "to": "6",
+            "toString": "Closed"
+          }
+        ]
+      },
+      {
+        "id": "13675942",
+        "author": {
+          "name": "x219370",
+          "key": "x219370",
+          "emailAddress": "vamshi.kokkalla@telus.com",
+          "displayName": "Vamshi Kokkalla",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2021-12-27T11:25:44.000+0000",
+        "items": [
+          {
+            "field": "Link",
+            "fieldtype": "jira",
+            "from": null,
+            "fromString": null,
+            "to": "NGCQE-4640",
+            "toString": "This issue is mentioned by NGCQE-4640"
+          }
+        ]
+      },
+      {
+        "id": "13714684",
+        "author": {
+          "name": "x208225",
+          "key": "x208225",
+          "emailAddress": "mahalakshmi.ravindran@telus.com",
+          "displayName": "Mahalakshmi Ravindran",
+          "active": true,
+          "timeZone": "UTC"
+        },
+        "created": "2022-01-05T12:35:01.000+0000",
+        "items": [
+          {
+            "field": "Link",
+            "fieldtype": "jira",
+            "from": null,
+            "fromString": null,
+            "to": "NGCS-6447",
+            "toString": "This issue is mentioned by NGCS-6447"
+          }
+        ]
+      }
+    ]
+  }
+}

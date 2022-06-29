@@ -1,0 +1,27 @@
+{
+  "projects": [
+      "APIEXPPL",
+      "BSCP",
+      "DSPL",
+      "ECP",
+      "EOFR",
+      "EWSRPR",
+      "IFDR",
+      "IM",
+      "NGCA",
+      "NGCP",
+      "NGCQE",
+      "NGCS",
+      "OCB2B",
+      "OHUB",
+      "POSTSAPCC",
+      "S20TC",
+      "SEMS2",
+      "SQA",
+      "SWT",
+      "TEC",
+      "TIQAPI",
+      "TTA",
+      "WLSC"
+    ]
+}
